@@ -1,7 +1,4 @@
-せやな、進化版（advanced）のコードをそのまま貼っとくわ。  
-下のコードを `bot.py` として保存して、`BOT_TOKEN` と `ADMIN_IDS` を環境変数か `config.py` に書けば動くはずやで。
 
-```python
 #!/usr/bin/env python3
 """
 🤖 VPS BOT HOSTING MANAGER - Telegram Bot v2.0 (Advanced)
