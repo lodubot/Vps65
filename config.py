@@ -31,7 +31,7 @@
 
 #ESI CHANGE MAT KARNA BHAI PLZ RESPECT ALL DEVELOPER 
 # Your Telegram Bot Token (from @BotFather)
-BOT_TOKEN = "8663644709:AAGSCfNrs7AN_oDHApKYaAFZi0iLFdyoygM"
+BOT_TOKEN = "8939341047:AAEwTTXMeKF3hEgkCpk5wZV8E2vgArCmKx0"
 
 # Admin User IDs (list of Telegram user IDs)
 ADMIN_IDS = [
